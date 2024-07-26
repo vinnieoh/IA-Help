@@ -4,7 +4,7 @@ import (
     "log"
     
     "github.com/joho/godotenv"
-    "github.com/vinnieoh/IA-Help/app/cmd" 
+    "github.com/vinnieoh/IA-Help/app/cmd/root" 
 )
 
 func main() {

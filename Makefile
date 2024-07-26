@@ -2,7 +2,7 @@
 
 # Variáveis
 APP_NAME := my-favorite-movies
-CMD_PATH := ./
+CMD_PATH := ./app/cmd/main
 
 # Rodar a aplicação
 run:
